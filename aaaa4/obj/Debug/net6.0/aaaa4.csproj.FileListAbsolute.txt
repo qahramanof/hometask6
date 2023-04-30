@@ -1,0 +1,15 @@
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\bin\Debug\net6.0\aaaa4.exe
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\bin\Debug\net6.0\aaaa4.deps.json
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\bin\Debug\net6.0\aaaa4.runtimeconfig.json
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\bin\Debug\net6.0\aaaa4.dll
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\bin\Debug\net6.0\aaaa4.pdb
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.csproj.AssemblyReference.cache
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.AssemblyInfoInputs.cache
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.AssemblyInfo.cs
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.dll
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\refint\aaaa4.dll
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.pdb
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\aaaa4.genruntimeconfig.cache
+C:\Users\user\Documents\c# projeleri\aaaa4\aaaa4\obj\Debug\net6.0\ref\aaaa4.dll
